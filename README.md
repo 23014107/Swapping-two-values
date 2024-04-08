@@ -1,4 +1,8 @@
 # Swapping-two-values
+Name:RAMYA.P
+Reg no:212223240137
+Department:AIML
+
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
